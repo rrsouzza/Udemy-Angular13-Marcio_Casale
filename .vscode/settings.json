@@ -1,0 +1,23 @@
+{
+  "workbench.colorTheme": "Red",
+  "workbench.colorCustomizations": {
+    "sideBar.background": "#a503037a",
+    "activityBar.background": "#3f0202be",
+    "editor.background": "#3f0202be",
+    "editorLineNumber.foreground": "#ffffff",
+    "editorLineNumber.activeForeground": "#33ff00",
+    "editor.selectionBackground": "#d9ff0065",
+    "editor.selectionForeground": "#f100009f",
+    "panel.background": "#3f0202be",
+    "panel.border": "#ffffff",
+    "editorBracketHighlight.foreground1": "#ffffff",
+    "editorBracketHighlight.foreground2": "#13d6e4",
+    "editorBracketHighlight.foreground3": "#f0ec07",
+    "editorBracketHighlight.foreground4": "#53d806",
+    "editorBracketHighlight.foreground5": "#e4ac13",
+    "editorBracketHighlight.foreground6": "#1613e4",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#ff0000",
+},
+ 
+  "editor.tabSize": 2,
+}
