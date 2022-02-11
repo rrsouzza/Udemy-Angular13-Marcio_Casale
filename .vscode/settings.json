@@ -1,15 +1,10 @@
 {
-  "workbench.colorTheme": "Red",
+  "workbench.colorTheme": "Angular Dark Theme",
   "workbench.colorCustomizations": {
-    "sideBar.background": "#a503037a",
-    "activityBar.background": "#3f0202be",
-    "editor.background": "#3f0202be",
     "editorLineNumber.foreground": "#ffffff",
-    "editorLineNumber.activeForeground": "#33ff00",
-    "editor.selectionBackground": "#d9ff0065",
-    "editor.selectionForeground": "#f100009f",
-    "panel.background": "#3f0202be",
-    "panel.border": "#ffffff",
+    "editorLineNumber.activeForeground": "#15ff00",
+
+    //Brackets
     "editorBracketHighlight.foreground1": "#ffffff",
     "editorBracketHighlight.foreground2": "#13d6e4",
     "editorBracketHighlight.foreground3": "#f0ec07",
