@@ -1,20 +1,19 @@
 .container-fluid{
   max-width: 20em;
   background-color: lightblue;
-
+  padding: 1.5em;
+  margin-top: 5em;
 }
-.kz-btn {
+.btn{
   width: 90%;
   margin: 4px;
 }
-.kz-input-text {
+
+#display{
   margin-top: 3px;
-  width:96%;
-margin-left:6px
+  width: 96%;
+  margin-left: 6px;
 }
-.kz-pad-20 {
-padding: 20px;
-}
-.col-xs-3, .col-xs-9 {
+.col-3, .col-9 {
 padding: 0px;
 }
