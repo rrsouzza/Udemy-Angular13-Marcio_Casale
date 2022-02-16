@@ -1,0 +1,10 @@
+.container-fluid{
+  background-color: lightblue;
+  border-bottom: 3px solid #aaa;
+}
+
+.nav-item{
+  font-size: 1.4em;
+  font-weight: bold;
+  padding-left: 2em;
+}
